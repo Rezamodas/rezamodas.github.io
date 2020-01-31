@@ -20,7 +20,7 @@ h1 {
 }
 h2 {
     font-size: 32px;
-    border-bottom: solid 1px gray;
+    border-bottom: 1px grey solid;
     margin-bottom: 8px;
 }
 #header {
